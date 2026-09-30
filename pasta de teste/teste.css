@@ -1,0 +1,28 @@
+div {
+    text-align: center;
+    border: 10px outset orange;
+    border-top-left-radius: 20px;
+    background-color: rgb(142, 160, 141);
+    margin:250px;
+    margin-top:10px;
+}
+h1 {
+ font-style: oblique;
+ font-family:Georgia, 'Times New Roman', serif;
+ font-weight:bolder;
+}
+body {
+    background-color:rgb(255, 248, 231)
+}
+.cat1 {
+   border:10px solid black;  
+   border-radius:10px;
+}
+.cat2 {
+    border:10px solid black;
+    border-radius:10px;
+}
+.cat3 {
+    border:10px solid black;
+    border-radius:10px;
+}
